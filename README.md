@@ -1,9 +1,15 @@
 ## Fala pessoal 👋
 
-Eu me chamo Clara Arantes, tenho 27 anos e sou do Rio de Janeiro, Sou iniciante no mundo da programação e estou disposta a prender tudo sobre esse universo. 
+Eu me chamo Clara Arantes, tenho 27 anos e sou do Rio de Janeiro, Sou iniciante no mundo da programação e estou disposta a prender tudo sobre esse universo.
 
-Hoje eu faço parte da equipe de TI do HEGV, querendo migrar para a area de desenvolvimento de sistemas.
+<h2>Sobre mim</h2>
 
+- Hoje eu faço parte da equipe de TI do HEGV
+- Cursando Análise e Desenvolvimento de Sistemas
+- Procurando estágio na área
+
+ 
+<h2>Contato</h2>
 Entre em contato comigo pelo Linkedin
 
 <a href="https://www.linkedin.com/in/clara-arantes/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="90" height="90" target="_blank"></a>
