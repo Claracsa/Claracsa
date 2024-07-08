@@ -1,12 +1,12 @@
 ## Fala pessoal 👋
 
-Eu me chamo Clara Arantes, tenho 27 anos e sou do Rio de Janeiro, Sou iniciante no mundo da programação e estou disposta a prender tudo sobre esse universo.
+Eu me chamo Clara Arantes, tenho 28 anos e sou do Rio de Janeiro, Sou iniciante no mundo da programação e estou disposta a prender tudo sobre esse universo.
 
 <h2>Sobre mim</h2>
 
-- Hoje eu faço parte da equipe de TI do HEGV
-- Cursando Análise e Desenvolvimento de Sistemas
-- Procurando estágio na área
+- Hoje eu faço parte da equipe de Técnica Audiovisual da Rede Globo
+- Formada em Análise e Desenvolvimento de Sistemas
+- Procurando vagas na área
 
  
 <h2>Contato</h2>
